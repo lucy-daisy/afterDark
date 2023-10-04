@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_ignore_me","order":4,"path":"sprites/spr_ignore_me/spr_ignore_me.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_killer","order":2,"path":"objects/obj_killer/obj_killer.yy",},
     {"name":"spr_goal","order":3,"path":"sprites/spr_goal/spr_goal.yy",},
