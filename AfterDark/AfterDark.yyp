@@ -38,6 +38,7 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"press_key_qte","path":"scripts/press_key_qte/press_key_qte.yy",},},
+    {"id":{"name":"spr_another_one","path":"sprites/spr_another_one/spr_another_one.yy",},},
     {"id":{"name":"spr_ignore_me","path":"sprites/spr_ignore_me/spr_ignore_me.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_killer","path":"objects/obj_killer/obj_killer.yy",},},
