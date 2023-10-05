@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "press_key_qte",
+  "name": "scr_killer_appears",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

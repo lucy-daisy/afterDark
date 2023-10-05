@@ -1,4 +1,7 @@
 /// @description Insert description here
 
-default_move_speed = 2;
-move_speed = default_move_speed;
+move_speed = 4;
+recovery_time = 60;
+qte_timelimit = 120;
+
+stunned = false;
