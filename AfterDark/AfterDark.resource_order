@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_player_1","order":7,"path":"sprites/spr_player_1/spr_player_1.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"obj_textbox","order":5,"path":"objects/obj_textbox/obj_textbox.yy",},
     {"name":"spr_npc","order":5,"path":"sprites/spr_npc/spr_npc.yy",},

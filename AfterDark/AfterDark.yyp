@@ -34,6 +34,7 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"spr_player_1","path":"sprites/spr_player_1/spr_player_1.yy",},},
     {"id":{"name":"fnt_qte","path":"fonts/fnt_qte/fnt_qte.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},},
