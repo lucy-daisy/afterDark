@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_goal",
-    "path": "sprites/spr_goal/spr_goal.yy",
+    "name": "spr_goal_prototype",
+    "path": "sprites/spr_goal_prototype/spr_goal_prototype.yy",
   },
   "spriteMaskId": null,
   "visible": true,

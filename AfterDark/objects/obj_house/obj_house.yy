@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_house",
-    "path": "sprites/spr_house/spr_house.yy",
+    "name": "spr_house_prototype",
+    "path": "sprites/spr_house_prototype/spr_house_prototype.yy",
   },
   "spriteMaskId": null,
   "visible": true,

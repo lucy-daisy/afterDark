@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_npc",
-    "path": "sprites/spr_npc/spr_npc.yy",
+    "name": "spr_npc_prototype",
+    "path": "sprites/spr_npc_prototype/spr_npc_prototype.yy",
   },
   "spriteMaskId": null,
   "visible": true,

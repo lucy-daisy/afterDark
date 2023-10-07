@@ -2,15 +2,30 @@
 
 
 // The inputs for movement
-right_key = keyboard_check(vk_right);
-left_key = keyboard_check(vk_left);
-up_key = keyboard_check(vk_up);
-down_key = keyboard_check(vk_down);
+right_key = keyboard_check(vk_right) or keyboard_check(ord("D"));
+left_key = keyboard_check(vk_left) or keyboard_check(ord("A"));
+up_key = keyboard_check(vk_up) or keyboard_check(ord("W"));
+down_key = keyboard_check(vk_down) or keyboard_check(ord("S"));
 
-// Determines the direction the character should move
-x_spd = (right_key - left_key) * move_spd;
-y_spd = (down_key - up_key) * move_spd;
+// Direction
+#region
+// Determines the direction the character should move, this will later determine which sprite should play
+var _x_key = right_key - left_key;
+var _y_key = down_key - up_key;
 
+move_direction = point_direction(0, 0, _x_key, _y_key);
+
+var _spd = 0;
+var _input_level = point_distance(0, 0, _x_key, _y_key);
+_input_level = clamp(_input_level, 0, 1);
+_spd = move_spd * _input_level;
+
+x_spd = lengthdir_x(_spd, move_direction);
+y_spd = lengthdir_y(_spd, move_direction);
+#endregion
+
+// Collisions
+#region
 // Checks if the player is going to run into something, if so they cannot move in that direction
 if place_meeting(x + x_spd, y, obj_wall) { x_spd = 0; }
 if place_meeting(x, y + y_spd, obj_wall) { y_spd = 0; }
@@ -33,10 +48,29 @@ if place_meeting(x, y, obj_killer) and (obj_killer.stunned == false) {
 		global.qte_going = true;
 	}
 }
+#endregion
 
-
-// Moves the player
+// Movement
 if global.qte_going == false {
 	x += x_spd;
 	y += y_spd;
 }
+
+
+// Sprite control
+#region
+// Determines what direction the player is moving in and figures out what sprite to use
+face = round(move_direction/90);
+if face == 4 {face = 0};
+
+// If the player is not moving, do not animate the sprite and keep them facing the same direction
+if x_spd == 0 and y_spd == 0 {
+	image_index= 0;
+	face = previous_face;
+}
+
+//Sets the sprite
+previous_face = face;
+sprite_index = sprite[face];
+sprite_set_speed(sprite_index, 8, spritespeed_framespersecond);
+#endregion
