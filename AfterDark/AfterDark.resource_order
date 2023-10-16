@@ -32,6 +32,7 @@
     {"name":"obj_killer","order":2,"path":"objects/obj_killer/obj_killer.yy",},
     {"name":"scr_killer_appears","order":1,"path":"scripts/scr_killer_appears/scr_killer_appears.yy",},
     {"name":"spr_player2","order":6,"path":"sprites/spr_player2/spr_player2.yy",},
+    {"name":"spr_killer","order":8,"path":"sprites/spr_killer/spr_killer.yy",},
     {"name":"fnt_textbox","order":1,"path":"fonts/fnt_textbox/fnt_textbox.yy",},
     {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
     {"name":"rm_start_menu","order":1,"path":"rooms/rm_start_menu/rm_start_menu.yy",},
