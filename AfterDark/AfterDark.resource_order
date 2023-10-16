@@ -17,6 +17,7 @@
     {"name":"spr_player_1","order":3,"path":"folders/Sprites/spr_player_1.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"cars","order":5,"path":"folders/Sprites/cars.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_player_1_L","order":3,"path":"sprites/spr_player_1_L/spr_player_1_L.yy",},
