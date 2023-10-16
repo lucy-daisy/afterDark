@@ -54,6 +54,7 @@
     {"id":{"name":"fnt_textbox","path":"fonts/fnt_textbox/fnt_textbox.yy",},},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
     {"id":{"name":"rm_start_menu","path":"rooms/rm_start_menu/rm_start_menu.yy",},},
+    {"id":{"name":"spr_player1","path":"sprites/spr_player1/spr_player1.yy",},},
     {"id":{"name":"obj_qte_press_key","path":"objects/obj_qte_press_key/obj_qte_press_key.yy",},},
     {"id":{"name":"rm_death_screen","path":"rooms/rm_death_screen/rm_death_screen.yy",},},
     {"id":{"name":"spr_player_1_U","path":"sprites/spr_player_1_U/spr_player_1_U.yy",},},

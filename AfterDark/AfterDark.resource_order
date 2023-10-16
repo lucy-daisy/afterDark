@@ -33,6 +33,7 @@
     {"name":"fnt_textbox","order":1,"path":"fonts/fnt_textbox/fnt_textbox.yy",},
     {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
     {"name":"rm_start_menu","order":1,"path":"rooms/rm_start_menu/rm_start_menu.yy",},
+    {"name":"spr_player1","order":4,"path":"sprites/spr_player1/spr_player1.yy",},
     {"name":"obj_qte_press_key","order":4,"path":"objects/obj_qte_press_key/obj_qte_press_key.yy",},
     {"name":"rm_death_screen","order":2,"path":"rooms/rm_death_screen/rm_death_screen.yy",},
     {"name":"spr_player_1_U","order":1,"path":"sprites/spr_player_1_U/spr_player_1_U.yy",},
