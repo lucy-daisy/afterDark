@@ -57,6 +57,7 @@
     {"id":{"name":"spr_killer","path":"sprites/spr_killer/spr_killer.yy",},},
     {"id":{"name":"fnt_textbox","path":"fonts/fnt_textbox/fnt_textbox.yy",},},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
+    {"id":{"name":"spr_player4","path":"sprites/spr_player4/spr_player4.yy",},},
     {"id":{"name":"rm_start_menu","path":"rooms/rm_start_menu/rm_start_menu.yy",},},
     {"id":{"name":"spr_player1","path":"sprites/spr_player1/spr_player1.yy",},},
     {"id":{"name":"spr_player3","path":"sprites/spr_player3/spr_player3.yy",},},
@@ -70,6 +71,7 @@
     {"id":{"name":"spr_killer_prototype","path":"sprites/spr_killer_prototype/spr_killer_prototype.yy",},},
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
     {"id":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},},
+    {"id":{"name":"spr_player5","path":"sprites/spr_player5/spr_player5.yy",},},
     {"id":{"name":"rm_level","path":"rooms/rm_level/rm_level.yy",},},
   ],
   "RoomOrderNodes": [

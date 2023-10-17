@@ -35,6 +35,7 @@
     {"name":"spr_killer","order":8,"path":"sprites/spr_killer/spr_killer.yy",},
     {"name":"fnt_textbox","order":1,"path":"fonts/fnt_textbox/fnt_textbox.yy",},
     {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
+    {"name":"spr_player4","order":9,"path":"sprites/spr_player4/spr_player4.yy",},
     {"name":"rm_start_menu","order":1,"path":"rooms/rm_start_menu/rm_start_menu.yy",},
     {"name":"spr_player1","order":4,"path":"sprites/spr_player1/spr_player1.yy",},
     {"name":"spr_player3","order":7,"path":"sprites/spr_player3/spr_player3.yy",},
@@ -47,5 +48,6 @@
     {"name":"spr_house_prototype","order":1,"path":"sprites/spr_house_prototype/spr_house_prototype.yy",},
     {"name":"spr_killer_prototype","order":2,"path":"sprites/spr_killer_prototype/spr_killer_prototype.yy",},
     {"name":"obj_house","order":8,"path":"objects/obj_house/obj_house.yy",},
+    {"name":"spr_player5","order":10,"path":"sprites/spr_player5/spr_player5.yy",},
   ],
 }
