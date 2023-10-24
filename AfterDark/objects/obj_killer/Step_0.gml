@@ -6,3 +6,10 @@
 if (global.qte_going == false) and (stunned == false) {
 	mp_potential_step(obj_player.x, obj_player.y, move_speed, false);
 }
+
+
+//Sprite control
+face = round(direction/90);
+if face == 4 {face = 0};
+sprite_index = sprite[face];
+sprite_set_speed(sprite_index, 8, spritespeed_framespersecond);

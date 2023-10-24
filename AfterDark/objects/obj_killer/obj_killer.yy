@@ -30,9 +30,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_killer_prototype",
-    "path": "sprites/spr_killer_prototype/spr_killer_prototype.yy",
+    "name": "spr_killer_R",
+    "path": "sprites/spr_killer_R/spr_killer_R.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_killer_R",
+    "path": "sprites/spr_killer_R/spr_killer_R.yy",
+  },
   "visible": true,
 }
