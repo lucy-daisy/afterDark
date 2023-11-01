@@ -28,6 +28,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_inventory2","order":4,"path":"sprites/spr_inventory2/spr_inventory2.yy",},
     {"name":"spr_player_1_L_prototype","order":3,"path":"sprites/spr_player_1_L_prototype/spr_player_1_L_prototype.yy",},
+    {"name":"ts_asphalt2","order":1,"path":"tilesets/ts_asphalt2/ts_asphalt2.yy",},
     {"name":"rm_prepare","order":4,"path":"rooms/rm_prepare/rm_prepare.yy",},
     {"name":"spr_inventory1","order":3,"path":"sprites/spr_inventory1/spr_inventory1.yy",},
     {"name":"spr_wall_prototype","order":5,"path":"sprites/spr_wall_prototype/spr_wall_prototype.yy",},
@@ -40,6 +41,7 @@
     {"name":"spr_inventory4","order":6,"path":"sprites/spr_inventory4/spr_inventory4.yy",},
     {"name":"spr_player_prototype","order":4,"path":"sprites/spr_player_prototype/spr_player_prototype.yy",},
     {"name":"spr_killer_L","order":5,"path":"sprites/spr_killer_L/spr_killer_L.yy",},
+    {"name":"spr_asphalt2","order":1,"path":"sprites/spr_asphalt2/spr_asphalt2.yy",},
     {"name":"spr_killer_D","order":4,"path":"sprites/spr_killer_D/spr_killer_D.yy",},
     {"name":"obj_inventory","order":10,"path":"objects/obj_inventory/obj_inventory.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
