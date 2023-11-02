@@ -1,16 +1,18 @@
 /// @description Insert description here
 // You can write your code in this editor
+//INVENTORY_SLOTS = 9
 
-// The inventory will have this many slots total
-#macro INVENTORY_SLOTS 15
+// How many slots in a row
+//row_length = 3;
 
-// Each individual row will have this many slots
-row_length = 6;
+// Grid appearance
+grid_margin = 6;
 
-// Actually creates the inventory array. Each slot will default to -1, which is empty.
+//Creates an array with how ever many slots are in inventory slots. Each slot consists of -1, which is empty. We can overide this later to fill slots.
 inventory = array_create(INVENTORY_SLOTS, -1);
 
+// Fills out specific slots in the inventory. Right of the equals is the specific inventory item it is.
 randomize();
-inventory[0] = 0;
-inventory[1] = 0;
-inventory[2] = 0;
+//inventory[0] = 0;
+//inventory[1] = 1;
+//inventory[2] = 0;
