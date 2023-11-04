@@ -1,6 +1,6 @@
 /// @description Insert description here
 
-move_speed =	2;
+move_speed =	4;
 recovery_time = 60;
 qte_timelimit = 120;
 

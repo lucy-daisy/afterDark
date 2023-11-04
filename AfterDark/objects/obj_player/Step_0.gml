@@ -36,7 +36,7 @@ if (y + y_spd) < 0 or (y + y_spd) > room_height {y_spd = 0;}
 
 // Checks if the player reached the goal, if they have spawns the killer and destroyes the goal object
 if place_meeting(x, y, obj_goal) {
-	scr_killer_appears(1344, 346);
+	scr_killer_appears(898, 305);
 	with(obj_goal) { instance_destroy() };
 }
 inst = instance_place(x,y,obj_door);

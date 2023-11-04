@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "spr_vehicles",
   "bbox_bottom": 239,
-  "bbox_left": 32,
-  "bbox_right": 205,
+  "bbox_left": 16,
+  "bbox_right": 189,
   "bbox_top": 6,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6df4b189-752e-43e2-9ae6-b8d0c3bc6691",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4570e0ed-bb2b-4194-ac78-3f2371461dbd",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 256,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"df725265-ab2c-4af5-af25-711600cd1819","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8fef8164-485f-4be6-9307-90d960fcb1bd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6df4b189-752e-43e2-9ae6-b8d0c3bc6691","path":"sprites/spr_vehicles/spr_vehicles.yy",},},},"Disabled":false,"id":"d3f057be-56b9-428c-84bb-c16901b60fe3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4570e0ed-bb2b-4194-ac78-3f2371461dbd","path":"sprites/spr_vehicles/spr_vehicles.yy",},},},"Disabled":false,"id":"a0f6cff7-9548-41b4-881d-116c267f25c2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
