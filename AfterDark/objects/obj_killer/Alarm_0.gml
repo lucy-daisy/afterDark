@@ -2,6 +2,6 @@
 // You can write your code in this editor
 
 stunned = false;
-move_speed += 1;
+move_speed += 0.5;
 recovery_time -= 5;
-qte_timelimit -= 15;
+qte_timelimit -= 10;
