@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Inventory",
+    "path": "folders/Objects/Inventory.yy",
   },
   "parentObjectId": null,
   "persistent": false,
