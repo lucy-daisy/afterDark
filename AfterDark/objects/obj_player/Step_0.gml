@@ -35,13 +35,14 @@ if (x + x_spd) < 0 or (x + x_spd) > room_width {x_spd = 0;}
 if (y + y_spd) < 0 or (y + y_spd) > room_height {y_spd = 0;}
 
 // Checks if the player reached the goal, if they have spawns the killer and destroyes the goal object
-if place_meeting(x, y, obj_goal) {
-	scr_killer_appears(898, 305);
-	with(obj_goal) { instance_destroy() };
+if place_meeting(x, y, obj_killer_trigger) {
+	scr_killer_appears();
+	with(obj_killer_trigger) { instance_destroy() };
 }
-inst = instance_place(x,y,obj_door);
-if inst != noone {
-	room_goto(inst.whichRoom);
+
+// Checks if the player is touching a door, and if they are progressed to the next room
+if place_meeting(x, y, obj_door) {
+	next_level();
 }
 
 //Checks if the player is colliding with the killer, if they are activates a QTE
