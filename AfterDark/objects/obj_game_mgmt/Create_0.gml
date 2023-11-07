@@ -6,7 +6,7 @@ window_set_caption("After Dark");
 
 current_level = 1;
 
-level[1] = rm_level;
+level[1] = rm_level_1;
 level[2] = rm_level_2butbetter;
 level[3] = rm_level_3;
 level[4] = rm_level_4;

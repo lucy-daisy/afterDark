@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // Destroy the player character
-instance_destroy(obj_player);
+player_dies();
 
 
 // Destroy itself, so the QTE dissapears.

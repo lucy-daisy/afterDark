@@ -32,7 +32,7 @@ case rm_death_screen:
 	draw_text(gui_center_h, gui_center_v, "You Died.");
 	
 	draw_set_font(fnt_textbox);
-	draw_text(gui_center_h, gui_center_v + 50, "Press Enter");
+	draw_text(gui_center_h, gui_center_v + 50, "Press Enter to Restart");
 	
 	
 	break;

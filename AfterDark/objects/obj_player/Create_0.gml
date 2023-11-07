@@ -11,12 +11,15 @@ y_spd = 0;
 global.qte_going = false;
 
 // Sprite control
+
+
 move_direction = 0;
 face = 0;
 previous_face = 0;
-sprite[0] = spr_player_1_R;
-sprite[1] = spr_player_1_U;
-sprite[2] = spr_player_1_L;
-sprite[3] = spr_player_1_D;
 
-sprite_index = sprite[face];
+//sprite[0] = spr_player_1_R;
+//sprite[1] = spr_player_1_U;
+//sprite[2] = spr_player_1_L;
+//sprite[3] = spr_player_1_D;
+
+//sprite_index = sprite[face];
