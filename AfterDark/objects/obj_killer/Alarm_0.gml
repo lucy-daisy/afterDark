@@ -3,5 +3,5 @@
 
 stunned = false;
 move_speed += 0.5;
-recovery_time -= 5;
-qte_timelimit -= 10;
+recovery_time -= 7;
+qte_timelimit -= 11;
