@@ -56,7 +56,7 @@ if place_meeting(x, y, obj_killer) and (obj_killer.stunned == false) {
 #endregion
 
 // Movement
-if global.qte_going == false {
+if (global.player_can_move == true) && (global.qte_going == false){
 	x += x_spd;
 	y += y_spd;
 }
@@ -69,7 +69,7 @@ face = round(move_direction/90);
 if face == 4 {face = 0};
 
 // If the player is not moving, do not animate the sprite and keep them facing the same direction
-if x_spd == 0 and y_spd == 0 {
+if (x_spd == 0 and y_spd == 0) or (global.player_can_move = false) {
 	image_index= 0;
 	face = previous_face;
 }
