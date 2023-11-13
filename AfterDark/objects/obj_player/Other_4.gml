@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Changes Sprites
 // You can write your code in this editor
 show_debug_message(string(obj_game_mgmt.current_level));
 
