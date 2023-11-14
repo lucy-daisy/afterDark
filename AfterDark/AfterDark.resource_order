@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Characters","order":17,"path":"folders/Objects/Characters.yy",},
     {"name":"Inventory","order":15,"path":"folders/Objects/Inventory.yy",},
+    {"name":"Meta Objects","order":21,"path":"folders/Objects/Meta Objects.yy",},
     {"name":"UI","order":16,"path":"folders/Objects/UI.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
@@ -32,7 +33,6 @@
     {"name":"UI","order":6,"path":"folders/Sprites/UI.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Meta Objects","order":21,"path":"folders/Objects/Meta Objects.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_player_4_D","order":2,"path":"sprites/spr_player_4_D/spr_player_4_D.yy",},

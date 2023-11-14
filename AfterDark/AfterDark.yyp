@@ -18,6 +18,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters","folderPath":"folders/Objects/Characters.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Inventory","folderPath":"folders/Objects/Inventory.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Meta Objects","folderPath":"folders/Objects/Meta Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Objects/UI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
@@ -44,13 +45,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Sprites/UI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Meta Objects","folderPath":"folders/Objects/Meta Objects.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"spr_player_4_D","path":"sprites/spr_player_4_D/spr_player_4_D.yy",},},
