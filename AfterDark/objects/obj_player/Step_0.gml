@@ -45,14 +45,6 @@ if place_meeting(x, y, obj_door) {
 	next_level();
 }
 
-//Checks if the player is colliding with the killer, if they are activates a QTE
-if place_meeting(x, y, obj_killer) and (obj_killer.stunned == false) {
-	//Instert QTE code
-	if global.qte_going == false {
-		instance_create_layer(x, y, "text", obj_qte_press_key);
-		global.qte_going = true;
-	}
-}
 #endregion
 
 // Movement
@@ -69,7 +61,7 @@ face = round(move_direction/90);
 if face == 4 {face = 0};
 
 // If the player is not moving, do not animate the sprite and keep them facing the same direction
-if (x_spd == 0 and y_spd == 0) or (global.player_can_move = false) {
+if (x_spd == 0 and y_spd == 0) or (global.player_can_move = false) or (global.qte_going = true) {
 	image_index= 0;
 	face = previous_face;
 }

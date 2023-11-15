@@ -12,4 +12,10 @@ level[3] = rm_level_3;
 level[4] = rm_level_4;
 level[5] = rm_level_5;
 
+
+// Sound effects
+audio_falloff_set_model(audio_falloff_exponent_distance);
+audio_listener_orientation(0,1,0, 0,0,1);
+
+
 global.player_can_move = true;

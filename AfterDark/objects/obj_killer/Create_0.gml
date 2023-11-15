@@ -1,6 +1,7 @@
 /// @description Insert description here
 
-move_speed =	4;
+// Default is 4
+move_speed =	1;
 recovery_time = 60;
 qte_timelimit = 120;
 
@@ -15,3 +16,11 @@ sprite[2] = spr_killer_L;
 sprite[3] = spr_killer_D;
 
 sprite_index = sprite[face];
+
+
+// Start playing sound
+emit = audio_emitter_create();
+audio_play_sound_on(emit, snd_heartbeat, true, 1);
+
+alarm_timer = 5 * 60;
+alarm[1] = alarm_timer;
