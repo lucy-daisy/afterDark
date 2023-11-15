@@ -7,5 +7,4 @@ randomize();
 correct_key = alphebet[random_range(0, array_length(alphebet))];
 
 // Sets the timer for the QTE, if if goes off then you lose.
-
 alarm[0] = obj_killer.qte_timelimit;

@@ -3,7 +3,7 @@
 
 //DEBUGGING -- DELETE LATER
 if keyboard_check_pressed(vk_tab) {
-	player_dies();
+	
 }
 
 audio_listener_position(obj_camera.x, obj_camera.y, 0)
