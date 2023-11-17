@@ -48,9 +48,11 @@
   ],
   "IncludedFiles": [],
   "isEcma": false,
-  "LibraryEmitters": [],
+  "LibraryEmitters": [
+    {"name":"RainEmitterPreset","path":"particlelib/RainEmitterPreset/RainEmitterPreset.yy",},
+  ],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"spr_player_4_D","path":"sprites/spr_player_4_D/spr_player_4_D.yy",},},
@@ -203,6 +205,7 @@
     {"id":{"name":"spr_player_5_R","path":"sprites/spr_player_5_R/spr_player_5_R.yy",},},
     {"id":{"name":"spr_vehicles","path":"sprites/spr_vehicles/spr_vehicles.yy",},},
     {"id":{"name":"ts_vehicles","path":"tilesets/ts_vehicles/ts_vehicles.yy",},},
+    {"id":{"name":"ps_rain","path":"particles/ps_rain/ps_rain.yy",},},
     {"id":{"name":"spr_player_5","path":"sprites/spr_player_5/spr_player_5.yy",},},
   ],
   "RoomOrderNodes": [
