@@ -50,7 +50,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"spr_player_4_D","path":"sprites/spr_player_4_D/spr_player_4_D.yy",},},
