@@ -36,6 +36,7 @@
     {"name":"inst_61D6469F","path":"rooms/rm_museum/rm_museum.yy",},
     {"name":"inst_3D81911","path":"rooms/rm_museum/rm_museum.yy",},
     {"name":"inst_39060E2C","path":"rooms/rm_museum/rm_museum.yy",},
+    {"name":"inst_B7FBF8A","path":"rooms/rm_museum/rm_museum.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -69,6 +70,13 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_45DAA7E0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_dress","path":"objects/obj_dress/obj_dress.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":464.0,"y":249.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D81911","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_killer_trigger","path":"objects/obj_killer_trigger/obj_killer_trigger.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":304.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_39060E2C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_killer_spawn_location","path":"objects/obj_killer_spawn_location/obj_killer_spawn_location.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":240.0,"y":320.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_B7FBF8A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogXSpeed","path":"objects/obj_fog/obj_fog.yy",},"value":"-3",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogYSpeed","path":"objects/obj_fog/obj_fog.yy",},"value":"3",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogDensity","path":"objects/obj_fog/obj_fog.yy",},"value":"300",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogAlpha","path":"objects/obj_fog/obj_fog.yy",},"value":".5",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"color","path":"objects/obj_fog/obj_fog.yy",},"value":"$FF000000",},
+          ],"rotation":0.0,"scaleX":18.25,"scaleY":6.75,"x":96.0,"y":96.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[],"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"text","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
