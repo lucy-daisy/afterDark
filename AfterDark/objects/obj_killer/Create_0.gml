@@ -1,7 +1,7 @@
 /// @description Insert description here
 
 // Default is 4
-move_speed =	4;
+move_speed =	1;
 recovery_time = 60;
 qte_timelimit = 120;
 
