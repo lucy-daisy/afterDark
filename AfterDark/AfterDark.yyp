@@ -50,7 +50,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"spr_player_4_D","path":"sprites/spr_player_4_D/spr_player_4_D.yy",},},
@@ -102,7 +102,6 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"ts_gift_layer_1","path":"tilesets/ts_gift_layer_1/ts_gift_layer_1.yy",},},
     {"id":{"name":"spr_player_2_D","path":"sprites/spr_player_2_D/spr_player_2_D.yy",},},
-    {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
     {"id":{"name":"spr_credits","path":"sprites/spr_credits/spr_credits.yy",},},
     {"id":{"name":"spr_killer_L","path":"sprites/spr_killer_L/spr_killer_L.yy",},},
     {"id":{"name":"spr_asphalt2","path":"sprites/spr_asphalt2/spr_asphalt2.yy",},},
