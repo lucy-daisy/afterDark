@@ -74,7 +74,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogXSpeed","path":"objects/obj_fog/obj_fog.yy",},"value":"-3",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogYSpeed","path":"objects/obj_fog/obj_fog.yy",},"value":"3",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogDensity","path":"objects/obj_fog/obj_fog.yy",},"value":"300",},
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogAlpha","path":"objects/obj_fog/obj_fog.yy",},"value":".5",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogAlpha","path":"objects/obj_fog/obj_fog.yy",},"value":"2",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"color","path":"objects/obj_fog/obj_fog.yy",},"value":"$FF000000",},
           ],"rotation":0.0,"scaleX":18.25,"scaleY":6.75,"x":96.0,"y":96.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
