@@ -51,6 +51,7 @@ if place_meeting(x, y, obj_door) {
 if (global.player_can_move == true) && (global.qte_going == false){
 	x += x_spd;
 	y += y_spd;
+	if !audio_is_playing(snd_footsteps) { audio_play_sound(snd_footsteps, .2, true); }
 }
 
 
@@ -64,6 +65,7 @@ if face == 4 {face = 0};
 if (x_spd == 0 and y_spd == 0) or (global.player_can_move = false) or (global.qte_going = true) {
 	image_index= 0;
 	face = previous_face;
+	audio_stop_sound(snd_footsteps);
 }
 
 //Sets the sprite
