@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 78.88978,
+  "duration": 0.0,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "snd_museum_bgm.mp3",
+  "soundFile": "snd_museum_bgm",
   "type": 0,
-  "volume": 0.03,
+  "volume": 0.5,
 }
