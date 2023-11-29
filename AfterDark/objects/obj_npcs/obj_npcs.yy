@@ -1,11 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tank_top",
+  "name": "obj_npcs",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
-  "managed": true,
+  "managed": false,
   "overriddenProperties": [],
   "parent": {
     "name": "Dialogue System",
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tank_top",
-    "path": "sprites/spr_tank_top/spr_tank_top.yy",
+    "name": "spr_player_5_D",
+    "path": "sprites/spr_player_5_D/spr_player_5_D.yy",
   },
   "spriteMaskId": null,
   "visible": true,
