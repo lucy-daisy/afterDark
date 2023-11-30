@@ -12,7 +12,7 @@ var _cy = camera_get_view_y(view_camera[0]);
 	
 	//draw
 	draw_set_color(c_black);
-	draw_set_alpha(0.6);
+	draw_set_alpha(0.7);
 	draw_rectangle(0,0, _cw, _ch, 0);
 	
 gpu_set_blendmode(bm_subtract);
