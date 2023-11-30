@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Dialogue System","order":16,"path":"folders/Dialogue System.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
@@ -33,7 +34,6 @@
     {"name":"UI","order":6,"path":"folders/Sprites/UI.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Dialogue System","order":16,"path":"folders/Dialogue System.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"ts_condo_floor2","order":29,"path":"tilesets/ts_condo_floor2/ts_condo_floor2.yy",},
