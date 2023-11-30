@@ -19,6 +19,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters","folderPath":"folders/Objects/Characters.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Inventory","folderPath":"folders/Objects/Inventory.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"LightingObjects","folderPath":"folders/Objects/LightingObjects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Meta Objects","folderPath":"folders/Objects/Meta Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Objects/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Objects/UI.yy",},
@@ -38,6 +39,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player_4","folderPath":"folders/Sprites/Characters/Players/Player_4.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player_5","folderPath":"folders/Sprites/Characters/Players/Player_5.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Inventory","folderPath":"folders/Sprites/Inventory.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"LightingSprites","folderPath":"folders/Sprites/LightingSprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"notes","folderPath":"folders/Sprites/notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Parking Lot","folderPath":"folders/Sprites/Parking Lot.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Prototype","folderPath":"folders/Sprites/Prototype.yy",},
@@ -46,8 +48,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Sprites/UI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"LightingSprites","folderPath":"folders/Sprites/LightingSprites.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"LightingObjects","folderPath":"folders/Objects/LightingObjects.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -55,7 +55,7 @@
     {"name":"RainEmitterPreset","path":"particlelib/RainEmitterPreset/RainEmitterPreset.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"ts_condo_floor2","path":"tilesets/ts_condo_floor2/ts_condo_floor2.yy",},},
