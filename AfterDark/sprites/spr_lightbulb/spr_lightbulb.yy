@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_lightbulb",
-  "bbox_bottom": 146,
-  "bbox_left": 13,
+  "bbox_bottom": 144,
+  "bbox_left": 2,
   "bbox_right": 146,
-  "bbox_top": 13,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3c6baf9f-eacc-48e1-8a78-cd7c9d27db57",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"942b5400-44de-41cb-8e1d-00833f994e03",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 160,
+  "height": 480,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"be3ccede-d617-4d9c-baa8-d88cb4377ac8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cbb4f566-cecd-4e2c-a25c-ac58818c37fd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3c6baf9f-eacc-48e1-8a78-cd7c9d27db57","path":"sprites/spr_lightbulb/spr_lightbulb.yy",},},},"Disabled":false,"id":"b350c17e-d98c-4f5f-8a5e-a68a5334a57b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"942b5400-44de-41cb-8e1d-00833f994e03","path":"sprites/spr_lightbulb/spr_lightbulb.yy",},},},"Disabled":false,"id":"f9319431-6116-4137-ba73-1acd0cdb63c5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 160,
+  "width": 360,
 }
