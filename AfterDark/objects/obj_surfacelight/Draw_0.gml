@@ -18,8 +18,8 @@ var _cy = camera_get_view_y(view_camera[0]);
 gpu_set_blendmode(bm_subtract);
 
 	with(obj_lightcenter) {
-	//gpu_set_blendmode(bm_subtract);
-	//draw_sprite_ext(spr_lightbulb, 1, x - _cx, y - _cy, 0.5 + random(0.05), 0.5 + random(0.05), 0, c_white, 1);
+	gpu_set_blendmode(bm_subtract);
+	draw_sprite_ext(spr_lightbulb, 1, x - _cx, y - _cy, 0.5 + random(0.05), 0.5 + random(0.05), 0, c_black, 1);
 	gpu_set_blendmode(bm_normal);
 	
 	gpu_set_blendmode(bm_add);
