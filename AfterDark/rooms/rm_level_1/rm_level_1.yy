@@ -118,6 +118,7 @@
     {"name":"inst_132856B1","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_6E9DC419","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_2D3E01B1","path":"rooms/rm_level_1/rm_level_1.yy",},
+    {"name":"inst_58FC1E17","path":"rooms/rm_level_1/rm_level_1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -168,6 +169,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_132856B1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lightcenter","path":"objects/obj_lightcenter/obj_lightcenter.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3631.0,"y":1286.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6E9DC419","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lightcenter","path":"objects/obj_lightcenter/obj_lightcenter.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3407.0,"y":1286.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2D3E01B1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lightcenter","path":"objects/obj_lightcenter/obj_lightcenter.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2319.0,"y":1286.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_58FC1E17","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lightright","path":"objects/obj_lightright/obj_lightright.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1745.0,"y":1534.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"goodnight2","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"goodnight_2_1","animationSpeed":1.0,"colour":4293256677,"frozen":false,"headPosition":0.0,"ignore":true,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":53.15625,"scaleY":46.78125,"spriteId":{"name":"Sprite47","path":"sprites/Sprite47/Sprite47.yy",},"x":1056.0,"y":352.0,},

@@ -57,7 +57,7 @@
     {"name":"RainEmitterPreset","path":"particlelib/RainEmitterPreset/RainEmitterPreset.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"ts_condo_floor2","path":"tilesets/ts_condo_floor2/ts_condo_floor2.yy",},},
@@ -150,6 +150,7 @@
     {"id":{"name":"spr_player_2","path":"sprites/spr_player_2/spr_player_2.yy",},},
     {"id":{"name":"ts_furniture","path":"tilesets/ts_furniture/ts_furniture.yy",},},
     {"id":{"name":"fnt_textbox","path":"fonts/fnt_textbox/fnt_textbox.yy",},},
+    {"id":{"name":"spr_lightright","path":"sprites/spr_lightright/spr_lightright.yy",},},
     {"id":{"name":"spr_floorsandwalls","path":"sprites/spr_floorsandwalls/spr_floorsandwalls.yy",},},
     {"id":{"name":"spr_cars_vertical2","path":"sprites/spr_cars_vertical2/spr_cars_vertical2.yy",},},
     {"id":{"name":"spr_modernExteriors","path":"sprites/spr_modernExteriors/spr_modernExteriors.yy",},},
@@ -179,6 +180,7 @@
     {"id":{"name":"ts_gym_decor1","path":"tilesets/ts_gym_decor1/ts_gym_decor1.yy",},},
     {"id":{"name":"spr_player_2_R","path":"sprites/spr_player_2_R/spr_player_2_R.yy",},},
     {"id":{"name":"rm_test_dialogue_system","path":"rooms/rm_test_dialogue_system/rm_test_dialogue_system.yy",},},
+    {"id":{"name":"obj_lightright","path":"objects/obj_lightright/obj_lightright.yy",},},
     {"id":{"name":"spr_gifts_layer_2","path":"sprites/spr_gifts_layer_2/spr_gifts_layer_2.yy",},},
     {"id":{"name":"spr_player_3","path":"sprites/spr_player_3/spr_player_3.yy",},},
     {"id":{"name":"obj_qte_press_key","path":"objects/obj_qte_press_key/obj_qte_press_key.yy",},},

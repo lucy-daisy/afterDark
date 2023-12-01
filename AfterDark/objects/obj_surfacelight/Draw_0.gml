@@ -26,11 +26,14 @@ gpu_set_blendmode(bm_subtract);
 	draw_sprite_ext(spr_lightbulb, 1, x - _cx, y - _cy, 0.5 + random(0.05), 0.5 + random(0.05), 0, c_yellow, 0.4);
 	}
 	
-	/*with(obj_lightcenter) {			ADD ANOTHER OBJ
-		
-	draw_sprite_ext(spr_lightbulb, 1, x - _cx, y - _cy, 0.5 + random(0.05), 0.5 + random(0.05), 0, c_white, 1);
+	with(obj_lightright) {			
+	gpu_set_blendmode(bm_subtract);
+	draw_sprite_ext(spr_lightbulb, 1, x - _cx, y - _cy, 0.5 + random(0.05), 0.5 + random(0.05), 0, c_black, 1);
+	gpu_set_blendmode(bm_normal);
 	
-	}*/
+	gpu_set_blendmode(bm_add);
+	draw_sprite_ext(spr_lightbulb, 1, x - _cx, y - _cy, 0.5 + random(0.05), 0.5 + random(0.05), 0, c_yellow, 0.4);
+	}
 	gpu_set_blendmode(bm_normal);
 	
 	draw_set_alpha(1);
