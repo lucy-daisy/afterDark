@@ -57,7 +57,7 @@
     {"name":"RainEmitterPreset","path":"particlelib/RainEmitterPreset/RainEmitterPreset.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"ts_condo_floor2","path":"tilesets/ts_condo_floor2/ts_condo_floor2.yy",},},
@@ -87,6 +87,7 @@
     {"id":{"name":"spr_window","path":"sprites/spr_window/spr_window.yy",},},
     {"id":{"name":"snd_footsteps","path":"sounds/snd_footsteps/snd_footsteps.yy",},},
     {"id":{"name":"spr_doorsandwindows","path":"sprites/spr_doorsandwindows/spr_doorsandwindows.yy",},},
+    {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
     {"id":{"name":"spr_black_pixel","path":"sprites/spr_black_pixel/spr_black_pixel.yy",},},
     {"id":{"name":"spr_player_5_U","path":"sprites/spr_player_5_U/spr_player_5_U.yy",},},
     {"id":{"name":"snd_city_ambiance","path":"sounds/snd_city_ambiance/snd_city_ambiance.yy",},},
@@ -111,6 +112,7 @@
     {"id":{"name":"ts_buildings","path":"tilesets/ts_buildings/ts_buildings.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"spr_player_3_U","path":"sprites/spr_player_3_U/spr_player_3_U.yy",},},
+    {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"ts_gift_layer_1","path":"tilesets/ts_gift_layer_1/ts_gift_layer_1.yy",},},
     {"id":{"name":"spr_player_2_D","path":"sprites/spr_player_2_D/spr_player_2_D.yy",},},
