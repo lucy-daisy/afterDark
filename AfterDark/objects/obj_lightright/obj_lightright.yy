@@ -1,17 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_dtextbox",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":false,},
-  ],
+  "name": "obj_lightright",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Dialogue System",
-    "path": "folders/Dialogue System.yy",
+    "name": "LightingObjects",
+    "path": "folders/Objects/LightingObjects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_lightright",
+    "path": "sprites/spr_lightright/spr_lightright.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

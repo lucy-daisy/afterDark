@@ -2,17 +2,17 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_dress",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Dialogue System",
     "path": "folders/Dialogue System.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_npcs",
+    "path": "objects/obj_npcs/obj_npcs.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
