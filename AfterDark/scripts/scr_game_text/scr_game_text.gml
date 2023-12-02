@@ -3,7 +3,15 @@ function scr_game_text(_text_id){
 	
 switch(_text_id) {
 
-
+	case "credits":
+		scr_text("             - Credits -");
+		scr_text("Alfred An - Narrative Designer")
+		scr_text("Tristan Moh - Technical Artist")
+		scr_text("Lucy Myers - Producer")
+		scr_text("Dalyn Oliver - Gameplay Engineer")
+		scr_text("Special Thanks to Leo Arnold")
+		scr_text("Tile Sets from zed and LimeZu on Itch.io. Sound Effects from Pixabay")
+		break;
 
 	case "dress":
 		scr_text("A classical black TANK TOP paired with a SHORT SKIRT.");

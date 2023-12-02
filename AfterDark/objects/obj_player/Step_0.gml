@@ -48,6 +48,10 @@ if place_meeting(x, y, obj_door) {
 #endregion
 
 // Movement
+if (instance_exists(obj_dtextbox)){
+	global.player_can_move = false;
+}
+
 if (global.player_can_move == true) && (global.qte_going == false){
 	x += x_spd;
 	y += y_spd;

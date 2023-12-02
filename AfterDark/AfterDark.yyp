@@ -57,7 +57,7 @@
     {"name":"RainEmitterPreset","path":"particlelib/RainEmitterPreset/RainEmitterPreset.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"ts_condo_floor2","path":"tilesets/ts_condo_floor2/ts_condo_floor2.yy",},},
@@ -177,6 +177,7 @@
     {"id":{"name":"rm_level_parent","path":"rooms/rm_level_parent/rm_level_parent.yy",},},
     {"id":{"name":"spr_inventory3","path":"sprites/spr_inventory3/spr_inventory3.yy",},},
     {"id":{"name":"Sprite47","path":"sprites/Sprite47/Sprite47.yy",},},
+    {"id":{"name":"obj_interact_indicate","path":"objects/obj_interact_indicate/obj_interact_indicate.yy",},},
     {"id":{"name":"spr_lightbulb","path":"sprites/spr_lightbulb/spr_lightbulb.yy",},},
     {"id":{"name":"spr_condo_decor2","path":"sprites/spr_condo_decor2/spr_condo_decor2.yy",},},
     {"id":{"name":"ts_gym_decor1","path":"tilesets/ts_gym_decor1/ts_gym_decor1.yy",},},
@@ -244,6 +245,7 @@
     {"id":{"name":"spr_player_4_U","path":"sprites/spr_player_4_U/spr_player_4_U.yy",},},
     {"id":{"name":"spr_killer","path":"sprites/spr_killer/spr_killer.yy",},},
     {"id":{"name":"obj_surfacelight","path":"objects/obj_surfacelight/obj_surfacelight.yy",},},
+    {"id":{"name":"spr_interact_indicator","path":"sprites/spr_interact_indicator/spr_interact_indicator.yy",},},
     {"id":{"name":"spr_killer_R","path":"sprites/spr_killer_R/spr_killer_R.yy",},},
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
     {"id":{"name":"spr_player_4_R","path":"sprites/spr_player_4_R/spr_player_4_R.yy",},},
