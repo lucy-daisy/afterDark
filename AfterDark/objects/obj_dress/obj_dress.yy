@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_dress",
-    "path": "sprites/spr_dress/spr_dress.yy",
+    "name": "spr_dressmuseum",
+    "path": "sprites/spr_dressmuseum/spr_dressmuseum.yy",
   },
   "spriteMaskId": null,
   "visible": true,

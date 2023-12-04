@@ -1,3 +1,3 @@
 text_id = "dress";
-sprite_index = spr_dress;
+sprite_index = spr_dressmuseum;
 levels_in = [3, 4]
