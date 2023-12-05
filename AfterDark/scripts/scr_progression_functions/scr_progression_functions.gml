@@ -33,11 +33,20 @@ function next_level(){
 function player_dies(){
 	instance_destroy(obj_player);
 	obj_game_mgmt.current_level += 1;
-	if obj_game_mgmt.current_level < 6 {
+	if obj_game_mgmt.current_level < 5 {
 		death_transition(rm_museum);
 	}
 	else {
 		death_transition(rm_death_screen);
 	}
 		
+}
+
+function array_has_value(_array, _value) {
+  for (var _i=0;_i<array_length(_array);_i++) {
+    if ( _array[_i] == _value ) {
+      return true;
+    }
+  }
+  return false;
 }

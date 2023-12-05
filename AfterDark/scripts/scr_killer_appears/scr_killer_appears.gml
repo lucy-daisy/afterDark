@@ -4,7 +4,8 @@ function scr_killer_appears(){
 	if object_exists(obj_killer_spawn_location){
 		var _spawn_x = obj_killer_spawn_location.x
 		var _spawn_y = obj_killer_spawn_location.y
-		instance_create_depth(_spawn_x, _spawn_y, 0, obj_killer);
+		// instance_create_depth(_spawn_x, _spawn_y, 0, obj_killer);
+		instance_create_layer(_spawn_x, _spawn_y, "assets", obj_killer);
 		instance_destroy(obj_npc);
 	} else {
 		show_error("Error: No killer spawn location placed in room", true);

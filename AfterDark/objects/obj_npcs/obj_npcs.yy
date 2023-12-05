@@ -5,6 +5,8 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,},
   ],
   "managed": false,
   "overriddenProperties": [],
@@ -32,6 +34,9 @@
     "name": "spr_player_5_D",
     "path": "sprites/spr_player_5_D/spr_player_5_D.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_npc_prototype",
+    "path": "sprites/spr_npc_prototype/spr_npc_prototype.yy",
+  },
   "visible": true,
 }
