@@ -42,6 +42,7 @@ if place_meeting(x, y, obj_killer_trigger) {
 
 // Checks if the player is touching a door, and if they are progressed to the next room
 if place_meeting(x, y, obj_door) {
+	instance_destroy(obj_door);
 	next_level();
 }
 
