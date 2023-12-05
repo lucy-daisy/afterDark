@@ -3,7 +3,7 @@
 
 //DEBUGGING -- DELETE LATER
 if keyboard_check_pressed(vk_tab) {
-	
+	player_dies();
 }
 
 // Sets up sound effects. The camera is the listener, so 3D sound is relative to it.

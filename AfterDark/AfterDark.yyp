@@ -57,7 +57,7 @@
     {"name":"RainEmitterPreset","path":"particlelib/RainEmitterPreset/RainEmitterPreset.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"ts_condo_floor2","path":"tilesets/ts_condo_floor2/ts_condo_floor2.yy",},},
@@ -86,6 +86,7 @@
     {"id":{"name":"obj_lightcenter","path":"objects/obj_lightcenter/obj_lightcenter.yy",},},
     {"id":{"name":"spr_tank_top","path":"sprites/spr_tank_top/spr_tank_top.yy",},},
     {"id":{"name":"spr_window","path":"sprites/spr_window/spr_window.yy",},},
+    {"id":{"name":"snd_death","path":"sounds/snd_death/snd_death.yy",},},
     {"id":{"name":"snd_footsteps","path":"sounds/snd_footsteps/snd_footsteps.yy",},},
     {"id":{"name":"spr_doorsandwindows","path":"sprites/spr_doorsandwindows/spr_doorsandwindows.yy",},},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},

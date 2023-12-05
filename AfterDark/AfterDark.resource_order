@@ -59,6 +59,7 @@
     {"name":"spr_player_5_L","order":4,"path":"sprites/spr_player_5_L/spr_player_5_L.yy",},
     {"name":"spr_tank_top","order":16,"path":"sprites/spr_tank_top/spr_tank_top.yy",},
     {"name":"spr_window","order":2,"path":"sprites/spr_window/spr_window.yy",},
+    {"name":"snd_death","order":5,"path":"sounds/snd_death/snd_death.yy",},
     {"name":"snd_footsteps","order":4,"path":"sounds/snd_footsteps/snd_footsteps.yy",},
     {"name":"spr_doorsandwindows","order":16,"path":"sprites/spr_doorsandwindows/spr_doorsandwindows.yy",},
     {"name":"obj_key","order":18,"path":"objects/obj_key/obj_key.yy",},
