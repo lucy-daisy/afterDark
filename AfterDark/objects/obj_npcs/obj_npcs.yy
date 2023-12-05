@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_5_D",
-    "path": "sprites/spr_player_5_D/spr_player_5_D.yy",
+    "name": "spr_newNPC",
+    "path": "sprites/spr_newNPC/spr_newNPC.yy",
   },
   "spriteMaskId": {
     "name": "spr_npc_prototype",

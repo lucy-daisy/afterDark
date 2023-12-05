@@ -16,8 +16,8 @@ switch(_text_id) {
 	case "dress":
 		scr_text("A classical black TANK TOP paired with a SHORT SKIRT.");
 		scr_text("The Victim, after wearing this outfit to attend a Halloween party,");
-		scr_text("was stalked by a 36-year-old male who had murdered 6 people before.");
-		scr_text("Subsequently, the victim was raped and killed by the stalker  in an alley at 3 am.");
+		scr_text("was stalked and killed by a 36-year-old male who had murdered 6 people before.");
+		scr_text("Subsequently, the victim was raped and killed by the stalker.");
 		break;
 
 	case "npc 1":

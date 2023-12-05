@@ -3,11 +3,10 @@
 
 //DEBUGGING -- DELETE LATER
 if keyboard_check_pressed(vk_tab) {
-	audio_play_sound(snd_bus, 0, 0);
 }
 
 if keyboard_check_pressed(vk_escape) {
-	game_end();
+	game_restart();
 }
 
 // Sets up sound effects. The camera is the listener, so 3D sound is relative to it.
