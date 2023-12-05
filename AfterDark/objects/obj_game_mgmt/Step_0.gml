@@ -3,7 +3,11 @@
 
 //DEBUGGING -- DELETE LATER
 if keyboard_check_pressed(vk_tab) {
-	player_dies();
+	
+}
+
+if keyboard_check_pressed(vk_escape) {
+	game_end();
 }
 
 // Sets up sound effects. The camera is the listener, so 3D sound is relative to it.
@@ -73,8 +77,10 @@ case rm_level_5:
 
 case rm_death_screen:
 	// Checks in Enter Key is pressed
-	if keyboard_check_pressed(vk_enter) {
-		game_restart();
+	// Background music
+	if !audio_is_playing(snd_city_ambiance) {
+		audio_stop_all();
+		audio_play_sound(snd_city_ambiance, 1, true);
 	}
 	
 	break;
