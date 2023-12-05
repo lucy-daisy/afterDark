@@ -166,6 +166,7 @@
     {"id":{"name":"spr_player_4","path":"sprites/spr_player_4/spr_player_4.yy",},},
     {"id":{"name":"ts_gym_floor1","path":"tilesets/ts_gym_floor1/ts_gym_floor1.yy",},},
     {"id":{"name":"spr_entrance_layer_2","path":"sprites/spr_entrance_layer_2/spr_entrance_layer_2.yy",},},
+    {"id":{"name":"snd_bus","path":"sounds/snd_bus/snd_bus.yy",},},
     {"id":{"name":"spr_vehicles51Vertical","path":"sprites/spr_vehicles51Vertical/spr_vehicles51Vertical.yy",},},
     {"id":{"name":"spr_gifts_layer_1","path":"sprites/spr_gifts_layer_1/spr_gifts_layer_1.yy",},},
     {"id":{"name":"spr_player_1_D","path":"sprites/spr_player_1_D/spr_player_1_D.yy",},},
@@ -272,7 +273,6 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_initialize","path":"rooms/rm_initialize/rm_initialize.yy",},},
-    {"roomId":{"name":"rm_death_screen","path":"rooms/rm_death_screen/rm_death_screen.yy",},},
     {"roomId":{"name":"rm_start_menu","path":"rooms/rm_start_menu/rm_start_menu.yy",},},
     {"roomId":{"name":"rm_museum","path":"rooms/rm_museum/rm_museum.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
@@ -281,6 +281,7 @@
     {"roomId":{"name":"rm_level_3","path":"rooms/rm_level_3/rm_level_3.yy",},},
     {"roomId":{"name":"rm_level_4","path":"rooms/rm_level_4/rm_level_4.yy",},},
     {"roomId":{"name":"rm_level_5","path":"rooms/rm_level_5/rm_level_5.yy",},},
+    {"roomId":{"name":"rm_death_screen","path":"rooms/rm_death_screen/rm_death_screen.yy",},},
     {"roomId":{"name":"rm_test_dialogue_system","path":"rooms/rm_test_dialogue_system/rm_test_dialogue_system.yy",},},
   ],
   "templateType": "game",

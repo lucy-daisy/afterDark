@@ -130,6 +130,7 @@
     {"name":"obj_killer_trigger","order":3,"path":"objects/obj_killer_trigger/obj_killer_trigger.yy",},
     {"name":"ts_gym_floor1","order":30,"path":"tilesets/ts_gym_floor1/ts_gym_floor1.yy",},
     {"name":"spr_entrance_layer_2","order":22,"path":"sprites/spr_entrance_layer_2/spr_entrance_layer_2.yy",},
+    {"name":"snd_bus","order":6,"path":"sounds/snd_bus/snd_bus.yy",},
     {"name":"spr_vehicles51Vertical","order":8,"path":"sprites/spr_vehicles51Vertical/spr_vehicles51Vertical.yy",},
     {"name":"spr_gifts_layer_1","order":23,"path":"sprites/spr_gifts_layer_1/spr_gifts_layer_1.yy",},
     {"name":"spr_player_1_D","order":2,"path":"sprites/spr_player_1_D/spr_player_1_D.yy",},
