@@ -1,7 +1,7 @@
 /// @description 
 
 // The character's movement speed, this can be adjusted if needed
-move_spd = 3;
+move_spd = 2;
 
 // These are used to determine what direction the character should move each Step
 x_spd = 0;
