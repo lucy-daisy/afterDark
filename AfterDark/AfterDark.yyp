@@ -59,7 +59,7 @@
     {"name":"RainEmitterPreset","path":"particlelib/RainEmitterPreset/RainEmitterPreset.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"ts_condo_floor2","path":"tilesets/ts_condo_floor2/ts_condo_floor2.yy",},},
