@@ -3,15 +3,18 @@ function scr_game_text(_text_id){
 	
 switch(_text_id) {
 
-
+	case "credits":
+		scr_text("             - Credits -");
+		scr_text("Alfred An - Narrative Designer")
+		scr_text("Tristan Moh - Technical Artist")
+		scr_text("Lucy Myers - Producer")
+		scr_text("Dalyn Oliver - Gameplay Engineer")
+		scr_text("Special Thanks to Leo Arnold")
+		scr_text("Tile Sets from zed and LimeZu on Itch.io. Sound Effects from Pixabay")
+		break;
 
 	case "dress":
 		scr_text("A classical black TANK TOP paired with a SHORT SKIRT.");
-<<<<<<< Updated upstream
-		scr_text("The Victim, after wearing this outfit to attend a Halloween party,");
-		scr_text("was stalked by a 36-year-old male who had murdered 6 people before.");
-		scr_text("Subsequently, the victim was raped and killed by the stalker  in an alley at 3 am.");
-=======
 		scr_text("After wearing this outfit to attend a party,");
 		scr_text("the victim was sexually harassed and killed by a 36-year-old male.");
 		scr_text("According to reports, the killer is still out there...");
@@ -32,12 +35,10 @@ switch(_text_id) {
 		scr_text("The killer, victims's Uber Driver, followed her into the apartment,");
 		scr_text("and sexually harassed her before she could run into her room.");
 		scr_text("......");
-		
 		break;
 		
 	case "dress 4":
 		scr_text("");
->>>>>>> Stashed changes
 		break;
 
 	case "npc 1":
@@ -60,6 +61,7 @@ switch(_text_id) {
 			scr_option("it's heavy.", "npc 1 - heavy");
 			scr_option("I don't like it.", "npc 1 - no");
 		break;
+		
 		case "npc 1 - like":
 			scr_text("Well, I like it. I think it's a good show.", "player1");
 			scr_text("I know right! What a POWERFUL exhibition!", "npc1");
@@ -70,6 +72,7 @@ switch(_text_id) {
 			scr_text("It's a RED Volvo.", "player1");
 			scr_text("Okay, be safe while driving home!.", "npc1");
 			break;
+			
 		case "npc 1 - heavy":
 			scr_text("It's good, but also a bit PATHETIC.", "player1");
 			scr_text("...PATHETIC?.", "npc1");
@@ -115,6 +118,7 @@ switch(_text_id) {
 				scr_text("It's a RED Volvo.", "player1");
 				scr_text("Okay, be safe while driving home!.", "npc1");
 				break;
+				
 		case "npc 1 - no":
 			scr_text("It's too brutal for me, I actually don't like it.", "player1");
 			scr_text("...", "npc1");
@@ -127,8 +131,6 @@ switch(_text_id) {
 			scr_text("It's a RED Volvo.", "player1");
 			scr_text("Okay, be safe while driving home!.", "npc1");
 			break;
-		
-			
 		
 
 	}
