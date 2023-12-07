@@ -21,7 +21,7 @@
   "option_operagx_publicShareUrl": "",
   "option_operagx_scale": 0,
   "option_operagx_team_id": "1b6ce8ed-ebe4-4900-9f6f-63815732df57",
-  "option_operagx_team_name": "(1b6ce8ed-ebe4-4900-9f6f-63815732df57) studio",
+  "option_operagx_team_name": "DalynO studio",
   "option_operagx_texture_page": "8192x8192",
   "option_operagx_version": "1.0.0.0",
 }

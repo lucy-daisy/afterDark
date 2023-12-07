@@ -20,23 +20,23 @@ switch(_text_id) {
             scr_text("According to reports, the killer is still out there...");
             break;
             
-      case "dress 2":
-            scr_text("The victim was wearing this HOODIE when she was trying to find her car on the street.")
+       case "dress 2":
+            scr_text("The victim was wearing this HOODIE when she was trying to find her car in the seedy neighborhood.");
             scr_text("Right before she found her vehicle and drove back home,");
             scr_text("she was ASSAULTED and killed by an adult male around 10 pm.");
             scr_text("......");
-			scr_text("")
-           
+            scr_text("( I remember finding a car in the dark parking lot... )");
+            scr_text("( It was not safe at all... )");
+            scr_text("( Glad that I'm not living in a messy community…… )");
             break;
             
       case "dress 3":
-            scr_text("This blue SWEATER belongs to a victim who was killed inside her apartment building.");
-            scr_text("The killer, victims's Uber Driver, followed her into the apartment,");
-            scr_text("and sexually harassed her before she could run into her room.");
+            scr_text("This blue SWEATER belongs to a victim who was killed on her way home downtown.");
+            scr_text("The killer stalked and sexually harassed her before she could run away.");
             scr_text("......");
-			scr_text("( I remember finding a car in the drak parking lot... )");
-            scr_text("( It was not safe at all... )");
-            scr_text("( Glad I'm calling a Uber and not driving back myself. )");
+            scr_text("( Seems like nowhere is safe now. )");
+            scr_text("( Maybe I should call an Uber instead of walking home. )");
+            scr_text("( After all, no one could follow behind me if I have someoneone drive me home... )");
             break;
             
       case "dress 4":
