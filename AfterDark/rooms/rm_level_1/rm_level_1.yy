@@ -154,7 +154,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogYSpeed","path":"objects/obj_fog/obj_fog.yy",},"value":"-1",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},"propertyId":{"name":"FogDensity","path":"objects/obj_fog/obj_fog.yy",},"value":"70",},
           ],"rotation":0.0,"scaleX":37.5,"scaleY":31.0,"x":1280.0,"y":1056.0,},
-      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":false,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Rain","assets":[
         {"resourceType":"GMRParticleSystem","resourceVersion":"1.0","name":"particle_635DD38D","colour":4294967295,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"particleSystemId":{"name":"ps_rain","path":"particles/ps_rain/ps_rain.yy",},"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2560.0,"y":416.0,},
       ],"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},

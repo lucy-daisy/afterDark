@@ -37,7 +37,7 @@ function player_dies(){
 	audio_play_sound(snd_death, 0, 0);
 	instance_destroy(obj_player);
 	obj_game_mgmt.current_level += 1;
-	if obj_game_mgmt.current_level < 5 {
+	if obj_game_mgmt.current_level < 4 {
 		death_transition(rm_museum);
 	}
 	else {

@@ -3,6 +3,7 @@
 
 //DEBUGGING -- DELETE LATER
 if keyboard_check_pressed(vk_tab) {
+	player_dies();
 }
 
 if keyboard_check_pressed(vk_escape) {
