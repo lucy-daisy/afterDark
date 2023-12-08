@@ -21,8 +21,8 @@ switch(_text_id) {
             break;
             
        case "dress 2":
-            scr_text("The victim was wearing this HOODIE when she was trying to find her car in the seedy neighborhood.");
-            scr_text("Right before she found her vehicle and drove back home,");
+            scr_text("The victim was wearing this HOODIE when she was walking in a sketchy neighborhood.");
+            scr_text("Right before she found her car and drove back home,");
             scr_text("she was ASSAULTED and killed by an adult male around 10 pm.");
             scr_text("......");
             scr_text("( I remember finding a car in the dark parking lot... )");
@@ -34,9 +34,9 @@ switch(_text_id) {
             scr_text("This blue SWEATER belongs to a victim who was killed on her way home downtown.");
             scr_text("The killer stalked and sexually harassed her before she could run away.");
             scr_text("......");
-            scr_text("( Seems like nowhere is safe now. )");
+            scr_text("( Seems like the whole city is damgerous. )");
             scr_text("( Maybe I should call an Uber instead of walking home. )");
-            scr_text("( After all, no one could follow behind me if I have someoneone drive me home... )");
+            scr_text("( After all, no one could follow behind me if I have someone to drive me home... )");
             break;
             
       case "dress 4":
@@ -72,7 +72,7 @@ switch(_text_id) {
                   scr_text("Do you need a ride or something? It's kinda dark out there right now.", "npc1");
                   scr_text("Oh thanks! But I actually drove here, and I parked a few blocks away.", "player1");
                   scr_text("It's a RED Volvo.", "player1");
-                  scr_text("Okay, be safe while driving home!.", "npc1");
+                  scr_text("Okay, just be safe while driving home!", "npc1");
                   break;
                   
             case "npc 1 - heavy":
@@ -96,7 +96,7 @@ switch(_text_id) {
                         scr_text("Do you need a ride or something? It's kinda dark out there right now.", "npc1");
                         scr_text("Oh thanks! But I actually drove here, and I parked a few blocks away.", "player1");
                         scr_text("It's a RED Volvo.", "player1");
-                        scr_text("Okay, be safe while driving home!.", "npc1");
+                        scr_text("Okay, just be safe while driving home!.", "npc1");
                         break;
                   case "wrong":
                         scr_text("She shouldn't have worn those tank top and short skirt. It's too EXPOSED.", "player1");
@@ -107,7 +107,7 @@ switch(_text_id) {
                         scr_text("Do you need a ride or something? It's kinda dark out there right now.", "npc1");
                         scr_text("Oh thanks! But I actually drove here, and I parked a few blocks away.", "player1");
                         scr_text("It's a RED Volvo.", "player1");
-                        scr_text("Okay, be safe while driving home!.", "npc1");
+                        scr_text("Okay, just be safe while driving home!.", "npc1");
                         break;
                   case "deserve":
                         scr_text("No wonder why she got raped as she was wearing those SLUTTY tank top and skirt!!!", "player1");
@@ -118,7 +118,7 @@ switch(_text_id) {
                         scr_text("Do you need a ride or something? It's kinda dark out there right now.", "npc1");
                         scr_text("Oh thanks! But I actually drove here, and I parked a few blocks away.", "player1");
                         scr_text("It's a RED Volvo.", "player1");
-                        scr_text("Okay, be safe while driving home!.", "npc1");
+                        scr_text("Okay, just be safe while driving home!.", "npc1");
                         break;
                         
             case "npc 1 - no":
@@ -131,7 +131,7 @@ switch(_text_id) {
                   scr_text("Do you need a ride or something? It's kinda dark out there right now.", "npc1");
                   scr_text("Oh thanks! But I actually drove here, and I parked a few blocks away.", "player1");
                   scr_text("It's a RED Volvo.", "player1");
-                  scr_text("Okay, be safe while driving home!.", "npc1");
+                  scr_text("Okay, just be safe while driving home!.", "npc1");
                   break;
             
 
